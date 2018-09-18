@@ -1,0 +1,27 @@
+{
+  "name": "hotliwi",
+  "version": "1.0.0",
+  "description": "Wifi hotsport application for Linux.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iondodon1998/HotLiWi.git"
+  },
+  "keywords": [
+    "wifi",
+    "hotspot",
+    "linux"
+  ],
+  "author": "Ion Dodon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iondodon1998/HotLiWi/issues"
+  },
+  "homepage": "https://github.com/iondodon1998/HotLiWi#readme",
+  "dependencies": {
+    "electron": "^2.0.9"
+  }
+}
